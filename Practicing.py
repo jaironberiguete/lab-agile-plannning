@@ -1,9 +1,9 @@
 
-def suma (num1,num2):
-    total = num1 + num2
+def suma (num1,num2,num3):
+    total = num1 + num2 + num3
     print(total)
 
-suma(23,40)
+suma(23,40,54)
 newNumber = sum
 
 if (newNumber > 10 ):
