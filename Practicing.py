@@ -10,3 +10,5 @@ if (newNumber > 10 ):
     print("The number is greater than 10")
 else:
     print("Otherwise")
+
+#This is practice code nothing serious.
